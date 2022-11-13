@@ -1,0 +1,12 @@
+{
+  "name": "deltabank",
+  "version": "1.0.0",
+  "description": "Projeto de criação do deltabank ",
+  "main": "index.js",
+  "scripts": {
+    "star": "node index.js"
+  },
+  "author": "Daniel Jordão",
+  "license": "ISC",
+  "type": "module"
+}
